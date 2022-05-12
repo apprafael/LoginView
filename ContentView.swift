@@ -30,7 +30,7 @@ struct ContentView: View {
             Button {
                 
             } label: {
-                Text("Entra")
+                Text("Entrar")
                     .frame(maxWidth: .infinity)
             }
             .buttonStyle(.borderedProminent)
